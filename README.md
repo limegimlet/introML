@@ -1,4 +1,4 @@
-# introML
+ud120-projects
+==============
 
-This code identifies a POI in the Enron data set. 
-It's one of the projects for the Udacity Data Analyst nanodegree.
+Starter project code for students taking Udacity ud120
